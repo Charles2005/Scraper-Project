@@ -68,12 +68,3 @@ def read_files(path):
         for line in f:
             print(line.replace("\n", ""))
 
-
-
-
-
-
-
-
-
-
